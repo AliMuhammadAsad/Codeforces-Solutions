@@ -1,5 +1,7 @@
 # Codeforces-Solutions <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="36px"/>
 
+View the webpage [here](https://alimuhammadasad.github.io/Codeforces-Solutions/). View source [here](https://github.com/AliMuhammadAsad/Codeforces-Solutions)
+
 Solutions to the <a href="https://codeforces.com/">Codeforces Archives</a>
 
 [Codeforces](https://codeforces.com/) is a programming platform with about 7000 problems which allows students (not just students) to submit code to various problems, mostly logical, critical thinking and competitive programming type problems. In addition, it is a platform that hosts competitive programming contests. 
